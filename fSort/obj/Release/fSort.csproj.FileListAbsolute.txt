@@ -1,0 +1,17 @@
+D:\Projects\ExifFileSort\fSort\fSort\bin\Release\fSort.exe.config
+D:\Projects\ExifFileSort\fSort\fSort\bin\Release\fSort.exe
+D:\Projects\ExifFileSort\fSort\fSort\bin\Release\fSort.pdb
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\MainWindow.g.cs
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\ProcessWindow.g.cs
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\App.g.cs
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort_MarkupCompile.cache
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort_MarkupCompile.lref
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\MainWindow.baml
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\ProcessWindow.baml
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.g.resources
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.Properties.Resources.resources
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.csproj.GenerateResource.Cache
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.csproj.CoreCompileInputs.cache
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.exe
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.pdb
+D:\Projects\ExifFileSort\fSort\fSort\obj\Release\fSort.csprojResolveAssemblyReference.cache

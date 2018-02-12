@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fSort.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sourceRootPathname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="targetRootPathname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="imageFileExts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.bmp .jpeg .jpg .png .rif .riff .tif .tiff</Value>
+    </Setting>
+    <Setting Name="videoFileExts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.3gp .asf .avi .gif .m2ts .m4v .mov .mp4 .mpeg .mpg .mts</Value>
+    </Setting>
+    <Setting Name="fAction" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="folderStructure" Type="System.String" Scope="User">
+      <Value Profile="(Default)">西元年分 月份 日期</Value>
+    </Setting>
+    <Setting Name="isRename" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isTheSameContentByComparedBinary" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isContentConfirmByComparedBinary" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isAddInfoFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
